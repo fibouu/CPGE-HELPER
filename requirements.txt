@@ -1,0 +1,13 @@
+MODULE:
+
+random
+PIL
+tkinter
+openpyxl
+re
+datetime
+os
+sys
+subprocess
+webbrowser
+csv
