@@ -15,4 +15,4 @@ Développé par fibou.<br/>
 <br/>
 Version actuelle: 1.0<br/>
 <br/>
-Date de la dernière actualisation: 17/02/2024  
+Date de la dernière mis à jour: 17/02/2024  
