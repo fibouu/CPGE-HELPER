@@ -12,6 +12,6 @@ Le programme devrait évolué au fil du temps. La date de la dernière actualisa
 
 <br/>
 Développé par fibou.  
-  
+<br/>
 Version actuelle: 1.0  
 Date de la dernière actualisation: 17/02/2024  
