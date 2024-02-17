@@ -1,4 +1,4 @@
-# Colloscope-Helper
+# CPGE Helper
 
 Interface pour la création et la vérification de colloscopes (CPGE) ainsi que le tirage au sort intelligent parmi un groupe.<br/><br/>
 
