@@ -9,7 +9,8 @@ Les 3 fonctionnalités présentes dans l'interface sont les suivantes :
 
 <br/>
 Le programme devrait évolué au fil du temps. La date de la dernière actualisation est inscrite à la fin du README.  
-  
+
+<br/>
 Développé par fibou.  
   
 Version actuelle: 1.0  
